@@ -1,2 +1,2 @@
 # ARIMA-And-Friends
-Time Series Forecasting with statistical model such as, AR, MA, ARMA, ARIMA, and SARIMA
+Explore and implement time series forecasting techniques using fundamental statistical models including Autoregressive (AR), Moving Average (MA), Autoregressive Moving Average (ARMA), Autoregressive Integrated Moving Average (ARIMA), and Seasonal Autoregressive Integrated Moving Average (SARIMA).
